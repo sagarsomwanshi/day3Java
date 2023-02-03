@@ -14,9 +14,9 @@ public class perfectNumber {
 
         }
         if(num == x){
-            System.out.println(num + "is perfect Number");
+            System.out.println(num + " is perfect Number");
         }else{
-            System.out.println(num +"is not a perfect Number");
+            System.out.println(num +" is not a perfect Number");
         }
     }
 }
